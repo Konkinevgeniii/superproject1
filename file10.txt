@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 skghsfkjhk
 waewrew
+=======
+skghsfkjhks
+sdgdskfmgskdf
+fgsdfmgkdfmgdk
+sdfkdmsgk
+>>>>>>> 60e24fe5217e54a35cda14e792b4290e13875679
